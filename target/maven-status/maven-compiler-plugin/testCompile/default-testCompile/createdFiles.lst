@@ -1,0 +1,3 @@
+com\auvenir\FW\base\AbstractPage.class
+launchBrowser\StepDefinition.class
+launchBrowser\Runner.class
