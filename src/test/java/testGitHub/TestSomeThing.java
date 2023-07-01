@@ -39,4 +39,8 @@ public class TestSomeThing {
     public void method300(){
         System.out.println("this is tanBranch");
     }
+
+    public void method456(){
+        System.out.println("this code from tanBranch");
+    }
 }
