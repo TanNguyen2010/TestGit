@@ -20,4 +20,12 @@ public class TestSomeThing {
     public void method11(){
         System.out.println("commit 01");
     }
+
+    public void method12(){
+        System.out.println("commit 02");
+    }
+
+    public void method13(){
+        System.out.println("commit 03");
+    }
 }
