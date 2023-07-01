@@ -16,4 +16,8 @@ public class TestSomeThing {
     public void method04(){
         System.out.println("commit part 01");
     }
+
+    public void method11(){
+        System.out.println("commit 01");
+    }
 }
