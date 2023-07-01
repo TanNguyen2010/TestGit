@@ -31,4 +31,8 @@ public class TestSomeThing {
     public void method14(){
         System.out.println("sfsdfs");
     }
+
+    public void method100(){
+        System.out.println("commit before stash");
+    }
 }
