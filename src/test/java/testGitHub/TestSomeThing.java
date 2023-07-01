@@ -47,4 +47,10 @@ public class TestSomeThing {
     public void method4567(){
         System.out.println("this code from ABranch");
     }
+
+
+    public void method4568(){
+        System.out.println("this code from ABranch + branchTestStash");
+    }
+
 }
