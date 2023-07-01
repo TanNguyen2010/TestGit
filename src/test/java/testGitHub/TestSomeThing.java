@@ -28,4 +28,8 @@ public class TestSomeThing {
     public void method13(){
         System.out.println("commit 03");
     }
+
+    public void method14(){
+        System.out.println("sfsdfs");
+    }
 }
