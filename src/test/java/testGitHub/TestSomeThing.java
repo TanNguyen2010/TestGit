@@ -35,4 +35,8 @@ public class TestSomeThing {
     public void method100(){
         System.out.println("commit before stash");
     }
+
+    public void method300(){
+        System.out.println("this is tanBranch");
+    }
 }
