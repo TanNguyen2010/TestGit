@@ -43,4 +43,8 @@ public class TestSomeThing {
     public void method456(){
         System.out.println("this code from tanBranch");
     }
+
+    public void method4567(){
+        System.out.println("this code from ABranch");
+    }
 }
