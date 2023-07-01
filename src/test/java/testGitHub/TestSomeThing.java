@@ -12,7 +12,6 @@ public class TestSomeThing {
     public void method03(){
         System.out.println("commit part 02");
     }
-
     public void method04(){
         System.out.println("commit part 01");
     }
