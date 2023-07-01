@@ -39,4 +39,8 @@ public class TestSomeThing {
     public void method412(){
         System.out.println("this is branch test stash");
     }
+
+    public void method456(){
+        System.out.println("this code from tanBranch");
+    }
 }
