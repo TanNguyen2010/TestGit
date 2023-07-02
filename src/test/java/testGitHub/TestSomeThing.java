@@ -61,4 +61,8 @@ public class TestSomeThing {
         System.out.println("01");
     }
 
+    public void method456(){
+        System.out.println("02");
+    }
+
 }
