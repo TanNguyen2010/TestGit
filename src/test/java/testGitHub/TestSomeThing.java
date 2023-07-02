@@ -61,7 +61,7 @@ public class TestSomeThing {
         System.out.println("01");
     }
 
-    public void method456(){
+    public void method4567777(){
         System.out.println("02");
     }
 
