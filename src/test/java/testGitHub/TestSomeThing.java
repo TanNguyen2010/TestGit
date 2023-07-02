@@ -65,4 +65,8 @@ public class TestSomeThing {
         System.out.println("02");
     }
 
+    public void method987654(){
+        System.out.println("100");
+    }
+
 }
