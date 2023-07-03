@@ -36,11 +36,41 @@ public class TestSomeThing {
         System.out.println("commit before stash");
     }
 
-    public void method412(){
-        System.out.println("this is branch test stash");
+    public void method300(){
+        System.out.println("this is tanBranch");
     }
 
     public void method456(){
         System.out.println("this code from tanBranch");
     }
+
+    public void method4567(){
+        System.out.println("this code from ABranch");
+    }
+
+
+    public void method4568(){
+        System.out.println("this code from ABranch + branchTestStash");
+    }
+
+    public void method4569(){
+        System.out.println("this code from ABranch + branchTestStash");
+    }
+
+    public void method455(){
+        System.out.println("01");
+    }
+
+    public void method4567777(){
+        System.out.println("02");
+    }
+
+    public void method987654(){
+        System.out.println("100");
+    }
+
+    public void method9876555(){
+        System.out.println("101");
+    }
+
 }
