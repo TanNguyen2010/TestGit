@@ -73,4 +73,8 @@ public class TestSomeThing {
         System.out.println("101");
     }
 
+    public void method9876gdgf555(){
+        System.out.println("smart checkout");
+    }
+
 }
