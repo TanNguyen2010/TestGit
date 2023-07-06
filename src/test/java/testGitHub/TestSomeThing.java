@@ -73,4 +73,9 @@ public class TestSomeThing {
         System.out.println("101");
     }
 
+    public String method9876555(int a){
+        System.out.println("101");
+        return null;
+    }
+
 }
