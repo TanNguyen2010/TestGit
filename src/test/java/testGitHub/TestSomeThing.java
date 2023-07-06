@@ -88,4 +88,17 @@ public class TestSomeThing {
         return null;
     }
 
+    public String method9876fdgdf5fdgf5501(int a){
+        System.out.println("101");
+        return null;
+    }
+    public String method9876fdgdf5fdgf5502(int a){
+        System.out.println("101");
+        return null;
+    }
+    public String method9876fdgdf5fdgf5503(int a){
+        System.out.println("101");
+        return null;
+    }
+
 }
