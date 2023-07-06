@@ -78,4 +78,14 @@ public class TestSomeThing {
         return null;
     }
 
+    public String method98765fdgf55(int a){
+        System.out.println("101");
+        return null;
+    }
+
+    public String method9876fdgdf5fdgf55(int a){
+        System.out.println("101");
+        return null;
+    }
+
 }
