@@ -101,4 +101,9 @@ public class TestSomeThing {
         return null;
     }
 
+    public String pushAll(int a){
+        System.out.println("101");
+        return null;
+    }
+
 }
