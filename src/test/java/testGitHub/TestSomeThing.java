@@ -106,4 +106,11 @@ public class TestSomeThing {
         return null;
     }
 
+
+
+    public String change02(int a){
+        System.out.println("101");
+        return null;
+    }
+
 }
