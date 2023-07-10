@@ -79,6 +79,7 @@ public class TestTamVu {
 
 
         Assert.assertEquals(driver.findElement(By.cssSelector("span.label")).getText(),"Wednesday, July 19, 2023");
+//        Assert.assertEquals(driver.findElement(By.cssSelector("span.label")).getText(),"Wednesday, July 19, 2023");
 
     }
     @AfterClass
